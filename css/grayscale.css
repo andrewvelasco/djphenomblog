@@ -222,6 +222,9 @@ a:focus {
 }
 .content-section {
   padding-top: 100px;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+
 }
 .download-section {
   width: 100%;
@@ -246,7 +249,9 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
-
+#bio{
+  background: url(../img/bio.jpg) no-repeat bottom center scroll;
+}
 .socialtext{
   color:white;
 }
